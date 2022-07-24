@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/wesleyjacoby/NTF-Preview-Card-Component)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://wesleyjacoby.github.io/NTF-Preview-Card-Component/)
 
 ## My process
 
