@@ -74,7 +74,7 @@ img {
     transform: translate(-50%, -50%);
 }
 
-.overlay:active {
+.overlay:hover {
     opacity: 1;
 }
 
@@ -86,9 +86,6 @@ img {
 
 .text h1:hover {
     cursor: pointer;
-}
-
-.text h1:active {
     color: hsl(178, 100%, 50%);
 }
 
@@ -163,8 +160,5 @@ span {
 
 span:hover {
     cursor: pointer;
-}
-
-span:active {
     color: hsl(178, 100%, 50%);
 }
